@@ -115,7 +115,7 @@ pip install pillow
 ```
 
 ```
-git clone https://github.com/b1013251/demo_mnist
+git clone https://github.com/ayaniimi213/demo_mnist
 cd demo_mnist
 ```
 ### モジュールのインストール
